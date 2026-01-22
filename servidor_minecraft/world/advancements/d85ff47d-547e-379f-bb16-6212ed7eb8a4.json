@@ -1,0 +1,829 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-01-22 16:37:57 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/root": {
+    "criteria": {
+      "0": "2026-01-22 16:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2026-01-22 16:41:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:slime": "2026-01-22 16:45:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-01-22 16:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:slime": "2026-01-22 16:45:34 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/super_container": {
+    "criteria": {
+      "0": "2026-01-22 16:46:45 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/physics_excalibur": {
+    "criteria": {
+      "0": "2026-01-22 16:46:46 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/propeller": {
+    "criteria": {
+      "has_oak_planks": "2026-01-22 16:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2026-01-22 16:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-01-22 16:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2026-01-22 16:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-01-22 16:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2026-01-22 16:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2026-01-22 16:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2026-01-22 16:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-01-22 16:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-01-22 16:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2026-01-22 16:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2026-01-22 16:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-01-22 16:53:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-01-22 17:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2026-01-22 17:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-01-22 17:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-01-22 17:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-01-22 17:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-01-22 17:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-01-22 17:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2026-01-22 17:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-01-22 17:18:21 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/monitor_clear": {
+    "criteria": {
+      "has_monitor": "2026-01-22 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/javelin_missile_convert": {
+    "criteria": {
+      "has_medium_anti_ground_missile": "2026-01-22 17:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2026-01-22 17:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-01-22 17:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2026-01-22 17:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2026-01-22 17:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2026-01-22 17:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2026-01-22 17:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2026-01-22 17:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2026-01-22 17:39:09 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/lead_ingot_from_block": {
+    "criteria": {
+      "has_lead_block": "2026-01-22 17:41:01 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/steel_hammer": {
+    "criteria": {
+      "has_steel_block": "2026-01-22 17:41:07 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/steel_ingot_from_block": {
+    "criteria": {
+      "has_steel_block": "2026-01-22 17:41:07 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/tungsten_ingot_from_block": {
+    "criteria": {
+      "has_tungsten_block": "2026-01-22 17:41:08 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/silver_ingot_from_block": {
+    "criteria": {
+      "has_silver_block": "2026-01-22 17:41:09 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/cemented_carbide_ingot_from_block": {
+    "criteria": {
+      "has_cemented_carbide_block": "2026-01-22 17:41:11 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/cemented_carbide_hammer": {
+    "criteria": {
+      "has_cemented_carbide_block": "2026-01-22 17:41:11 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/cm_head": {
+    "criteria": {
+      "has_grenade_40mm": "2026-01-22 17:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2026-01-22 17:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2026-01-22 17:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2026-01-22 18:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2026-01-22 18:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-01-22 18:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2026-01-22 18:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-01-22 18:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2026-01-22 18:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2026-01-22 18:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2026-01-22 18:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2026-01-22 18:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-01-22 18:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-01-22 18:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-01-22 18:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-01-22 18:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-01-22 18:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2026-01-22 18:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-01-22 18:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_apple": "2026-01-22 19:14:03 +0000",
+      "enchanted_golden_apple": "2026-01-22 18:08:24 +0000"
+    },
+    "done": false
+  },
+  "jcraft:recipes/combat/kira_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/coffin": {
+    "criteria": {
+      "has_white_bed": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/pucci_boots": {
+    "criteria": {
+      "has_netherite_boots": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/straizo_poncho": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/diego_boots": {
+    "criteria": {
+      "has_netherite_boots": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/heaven_attained_boots": {
+    "criteria": {
+      "has_netherite_boots": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/ringo_boots": {
+    "criteria": {
+      "has_netherite_boots": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/jotaro_p6_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/kosaku_jacket": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/doppio_shirt": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/dio_jacket": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/valentine_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/dio_p1_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/jotaro_p4_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/kosaku_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/kakyoin_boots": {
+    "criteria": {
+      "has_netherite_boots": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/johnny_boots": {
+    "criteria": {
+      "has_netherite_boots": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/risotto_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/jotaro_p4_jacket": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/final_kira_boots": {
+    "criteria": {
+      "has_netherite_boots": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/giorno_jacket": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/giorno_boots": {
+    "criteria": {
+      "has_netherite_boots": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/gyro_shirt": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/diavolo_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/johnny_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/ringo_outfit": {
+    "criteria": {
+      "has_netherite_leggings": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/gyro_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/jotaro_jacket": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/dio_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/diego_shirt": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/jotaro_p6_jacket": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/kira_boots": {
+    "criteria": {
+      "has_netherite_boots": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/kira_jacket": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/heaven_attained_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/risotto_jacket": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/johnny_jacket": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/jotaro_p6_boots": {
+    "criteria": {
+      "has_netherite_boots": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/diego_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/jotaro_p4_boots": {
+    "criteria": {
+      "has_netherite_boots": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/jotaro_boots": {
+    "criteria": {
+      "has_netherite_boots": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/diavolo_shirt": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/final_kira_jacket": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/risotto_boots": {
+    "criteria": {
+      "has_netherite_boots": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/kakyoin_coat": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/dio_p1_boots": {
+    "criteria": {
+      "has_netherite_boots": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/pucci_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/kosaku_boots": {
+    "criteria": {
+      "has_netherite_boots": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/kakyoin_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/pucci_robe": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/dio_boots": {
+    "criteria": {
+      "has_netherite_boots": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/final_kira_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/heaven_attained_shirt": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/dio_cape": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/jotaro_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/diavolo_boots": {
+    "criteria": {
+      "has_netherite_boots": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/dio_p1_jacket": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/giorno_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/valentine_boots": {
+    "criteria": {
+      "has_netherite_boots": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/valentine_jacket": {
+    "criteria": {
+      "has_netherite_chestplate": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/gyro_boots": {
+    "criteria": {
+      "has_netherite_boots": "2026-01-22 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_stand_disc": {
+    "criteria": {
+      "has_disc": "2026-01-22 19:01:47 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/disc": {
+    "criteria": {
+      "has_the_recipe": "2026-01-22 19:01:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_stand": {
+    "criteria": {
+      "has_stand": "2026-01-22 19:01:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_all_stands": {
+    "criteria": {
+      "has_purple_haze_distortion": "2026-01-22 19:01:50 +0000",
+      "has_the_world_over_heaven": "2026-01-22 19:02:50 +0000",
+      "has_d4c": "2026-01-22 19:18:19 +0000",
+      "has_star_platinum_the_world": "2026-01-22 19:02:42 +0000"
+    },
+    "done": false
+  },
+  "superbwarfare:recipes/combat/medical_kit": {
+    "criteria": {
+      "has_golden_apple": "2026-01-22 19:14:00 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_spec_disc": {
+    "criteria": {
+      "has_disc": "2026-01-22 19:17:41 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_any_spec": {
+    "criteria": {
+      "has_spec": "2026-01-22 19:17:42 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_all_specs": {
+    "criteria": {
+      "has_anubis": "2026-01-22 19:17:42 +0000"
+    },
+    "done": false
+  },
+  "jcraft:recipes/misc/stand_disc": {
+    "criteria": {
+      "has_disc": "2026-01-22 19:18:14 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/spec_disc": {
+    "criteria": {
+      "has_disc": "2026-01-22 19:18:14 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
